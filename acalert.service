@@ -1,5 +1,5 @@
 [Unit]
-Description=Reboot message systemd service.
+Description=AC Power monitoring service.
 
 [Service]
 Type=simple
