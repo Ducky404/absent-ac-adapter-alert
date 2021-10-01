@@ -5,5 +5,9 @@ It should do the thing when the stuff happens.
 
 
 **run it as a systemd service, why not?**
-chmod 644 /etc/systemd/system/acalert.service
-systemctl enable reboot_message.service
+
+`chmod 644 /etc/systemd/system/acalert.service
+`
+
+`systemctl enable acalert.service
+`
